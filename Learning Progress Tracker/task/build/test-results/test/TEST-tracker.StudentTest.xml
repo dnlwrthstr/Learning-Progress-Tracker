@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tracker.StudentTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2023-01-09T17:31:05" hostname="daniels-macbook-pro-2.home" time="0.133">
+  <properties/>
+  <testcase name="[1] 10000" classname="tracker.StudentTest" time="0.027"/>
+  <testcase name="[2] 10001" classname="tracker.StudentTest" time="0.002"/>
+  <testcase name="[1] 10000 10 10 10 10" classname="tracker.StudentTest" time="0.003"/>
+  <testcase name="[2] 10000 10 10 10 10" classname="tracker.StudentTest" time="0.003"/>
+  <testcase name="[3] 10000 -5 -5 -5 -5" classname="tracker.StudentTest" time="0.003"/>
+  <testcase name="[1] 10000" classname="tracker.StudentTest" time="0.003"/>
+  <testcase name="[2] 10001" classname="tracker.StudentTest" time="0.0"/>
+  <testcase name="[1] Jean-Clause, van Helsing, jc@google.it, true" classname="tracker.StudentTest" time="0.002"/>
+  <testcase name="[2] Mary Luise, Johnson, maryj@google.com, true" classname="tracker.StudentTest" time="0.001"/>
+  <testcase name="[3] Mary, Emelianenko, 125367at@zzz90.z9, true" classname="tracker.StudentTest" time="0.001"/>
+  <testcase name="[4] Robert, Jemison Van de Graaff, robertvdgraaff@mit.edu, true" classname="tracker.StudentTest" time="0.0"/>
+  <testcase name="[5] nA, me, 1@1.1, true" classname="tracker.StudentTest" time="0.001"/>
+  <testcase name="[6] n'a, me su aa-b'b, ab@ab.ab, true" classname="tracker.StudentTest" time="0.001"/>
+  <testcase name="[7] John, Doe, mail, false" classname="tracker.StudentTest" time="0.001"/>
+  <testcase name="[8] John, D., name@domain.com, false" classname="tracker.StudentTest" time="0.001"/>
+  <testcase name="[9] nam-'e, surname, email@email.xyz, false" classname="tracker.StudentTest" time="0.002"/>
+  <testcase name="[10] n, surname, email1@email.xyz, false" classname="tracker.StudentTest" time="0.001"/>
+  <testcase name="[11] name, surname, email@e@mail.xyz, false" classname="tracker.StudentTest" time="0.001"/>
+  <testcase name="[12] noone, surname, ab@ab.ab, false" classname="tracker.StudentTest" time="0.001"/>
+  <system-out><![CDATA[This email is already taken.
+This email is already taken.
+10000 points: Java=600; DSA=400; Databases=0; Spring=0
+This email is already taken.
+This email is already taken.
+10001 points: Java=0; DSA=0; Databases=0; Spring=0
+This email is already taken.
+This email is already taken.
+Points updated.
+This email is already taken.
+This email is already taken.
+Points updated.
+This email is already taken.
+This email is already taken.
+Incorrect points format.
+This email is already taken.
+This email is already taken.
+This email is already taken.
+This email is already taken.
+This email is already taken.
+This email is already taken.
+The student has been added.
+This email is already taken.
+This email is already taken.
+The student has been added.
+This email is already taken.
+This email is already taken.
+The student has been added.
+This email is already taken.
+This email is already taken.
+The student has been added.
+This email is already taken.
+This email is already taken.
+The student has been added.
+This email is already taken.
+This email is already taken.
+The student has been added.
+This email is already taken.
+This email is already taken.
+Incorrect email.
+This email is already taken.
+This email is already taken.
+Incorrect last name.
+This email is already taken.
+This email is already taken.
+Incorrect first name.
+This email is already taken.
+This email is already taken.
+Incorrect first name.
+This email is already taken.
+This email is already taken.
+Incorrect email.
+This email is already taken.
+This email is already taken.
+This email is already taken.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

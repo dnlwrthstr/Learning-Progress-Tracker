@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Learning Progress Tracker/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/An anonymous class with three methods" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/And always these rules" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Capture variables" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Find a correct syntax" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Implement Runnable" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/A suitable output" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Branching statements/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/A proper sorted collection without duplicates" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/Substitution cipher" />
+            <option value="$PROJECT_DIR$/Topics/Choosing the right collection/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The countdown" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Addresses" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement Comparable" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Implement comparing by additional fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Rewrite compareTo method" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Rules" />
+            <option value="$PROJECT_DIR$/Topics/Comparable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Comparing numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Comparing values" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Method name" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Reverse sorting" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Sort users" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Implement a default method" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/A keyword for creating objects" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Books" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/The keyword" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Balance management" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Elements of enum" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Months" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Planets of the solar system" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Celsius to Fahrenheit" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Explain the result" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/A lambda expression with seven arguments" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/An invalid way to create a functional interface" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Ternary predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/The requirement" />
+            <option value="$PROJECT_DIR$/Topics/Functional interfaces/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Reusing code with Object" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/What is wrong" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Countries and capitals" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/The same letter" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Higher-order functions" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Max of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Next even number" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Lambda expressions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Fast for ArrayList" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Remove the same" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/The big merge" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/The fair exchange" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LinkedList vs. ArrayList/Transfer both lists" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Ascending and descending sorting" />
+            <option value="$PROJECT_DIR$/Topics/Method references/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Phone" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Time" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Argument sources" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Looking for a bug" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Palindromes" />
+            <option value="$PROJECT_DIR$/Topics/Parameterized test/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Select statements" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Sort out the classes" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Runtime type checking/Who is who" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Deque output" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Methods" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Stack implementation" />
+            <option value="$PROJECT_DIR$/Topics/Stack/The LIFO principle in action" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Stack/Using deque" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Build a house" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Career" />
+            <option value="$PROJECT_DIR$/Topics/Template method/New customer" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Social networks" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Template Method" />
+            <option value="$PROJECT_DIR$/Topics/Template method/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Annotate and run" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Good reasons" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Lifecycle behavior" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Test fixture" />
+            <option value="$PROJECT_DIR$/Topics/Test lifecycle annotations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/A subset of sorted set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Elements of a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Implementations" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The most suitable set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/The size of a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/An empty test" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Annotation" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Failed assertion" />
+            <option value="$PROJECT_DIR$/Topics/Unit testing with JUnit/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/A pair of methods to be overridden" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/hashCode() and equals()/Where is the truth" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

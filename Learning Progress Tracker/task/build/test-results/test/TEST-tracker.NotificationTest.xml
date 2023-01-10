@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tracker.NotificationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-09T17:31:05" hostname="daniels-macbook-pro-2.home" time="0.025">
+  <properties/>
+  <testcase name="sendCertificate()" classname="tracker.NotificationTest" time="0.025"/>
+  <system-out><![CDATA[The student has been added.
+The student has been added.
+To: jdoe@mail.net
+Re: Your Learning Progress
+Hello, John Doe! You have accomplished our Java course!
+To: jdoe@mail.net
+Re: Your Learning Progress
+Hello, John Doe! You have accomplished our DSA course!
+Total 1 students have been notified.
+Total 0 students have been notified.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

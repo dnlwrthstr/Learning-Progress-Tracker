@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: // write a class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2939#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 16 Dec 2022 14:03:28 UTC"
+record: -1
